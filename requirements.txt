@@ -1,0 +1,13 @@
+mediapipe
+opencv-python
+numpy
+python-dotenv
+insightface
+onnxruntime
+Pillow
+torch
+diffusers
+transformers
+accelerate
+safetensors
+huggingface_hub
